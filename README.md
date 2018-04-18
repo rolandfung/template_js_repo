@@ -1,0 +1,1 @@
+template js repo with babel, jest, eslint, flow, and vscode launch configs
